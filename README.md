@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Frontend
 
@@ -26,6 +27,9 @@ You can click the Preview link to take a look at your changes.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Fetch](https://img.shields.io/badge/Fetch-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ## Backend
 
@@ -53,11 +57,15 @@ You can click the Preview link to take a look at your changes.
 
 ## Data Structures
 
-- Trie
-- Graph
-- Heap
-- Stack
-- Queue
-- Binary Tree
-- Tree
+- 🟦 **Trie**
+- 🟪 **Graph**
+- 🟧 **Heap**
+- 🟥 **Stack**
+- 🟨 **Queue**
+- 🟩 **Binary Tree**
+- 🟦 **Tree**
+- 🟫 **Linked List**
+- 🟪 **Hash Table**
+- 🟧 **Recursive Methods**
+
 
