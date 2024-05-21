@@ -6,8 +6,6 @@ A Passionate fullstack developer from India
 - [My Profile: LinkedIn](https://www.linkedin.com/in/mohammed-saleel-vt/)
 - 📫 How to reach me [Email Me](saleelvt57@gmail.com)
 
-  ...
-
 <!---
 saleelvt/saleelvt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -72,4 +70,3 @@ You can click the Preview link to take a look at your changes.
 - 🟪 **Hash Table**
 - 🟧 **Recursive Methods**
 
-![Developer Illustration](https://i.imgur.com/UQ9wJ9v.png)
