@@ -4,7 +4,8 @@ A Passionate fullstack developer from India
 - 👀 I’m Also Flying over The MERN Stack...
 - 🌱 I’m currently learning Next.js & TypeScript ...
 - [My Profile: LinkedIn](https://www.linkedin.com/in/mohammed-saleel-vt/)
-- 📫 How to reach me  [Email me](mailto:saleelvt57@gmail.com)
+- 📫 How to reach me [Email Me](saleelvt57@gmail.com)
+
   ...
 
 <!---
