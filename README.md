@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Languages
 
-![C Programming](https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
